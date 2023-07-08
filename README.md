@@ -1,8 +1,8 @@
-## OCR and GPT-3.5 Scripts Documentation
+## DocumentToDatabase Documentation
 
-*La version française se trouve dans [README_FR.md](https://inf203.gricad-gitlab.univ-grenoble-alpes.fr/ziebelid/wwiiheritage/-/blob/main/Scripts/README_FR.md)*
+*La version française se trouve dans [README_FR.md](https://github.com/prontopablo/DocumentToDatabase/blob/main/README_FR.md)*
 
-This document provides instructions on setting up, configuring, and using the OCR and GPT-3.5 Turbo scripts. These scripts work in tandem to perform Optical Character Recognition (OCR) on files and generate text-based responses using GPT-3.5.
+This document provides instructions on setting up, configuring, and using the OCR and GPT-3.5 Turbo scripts. These scripts work in tandem to perform Optical Character Recognition (OCR) on files and generate text-based responses using GPT-3.5. (See bottom of this document for applications/examples).
 
 ### Prerequisites
 
