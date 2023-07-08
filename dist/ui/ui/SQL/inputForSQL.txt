@@ -1,0 +1,1061 @@
+Region: Calabria
+Province: Reggio
+Town: Reggio di Calabria
+Name: Regio Antiquarium
+harvard_short_list_text: Archaeological section, Greek antiquities; medieval section, medieval antiquities.
+
+Region: Calabria
+Province: Reggio
+Town: Gerace Marina
+Name: Museum
+harvard_short_list_text: Greek antiquities.
+
+Region: Campania
+Province: Avellino
+Town: Montevergine
+Name: Convent of Montevergine
+Alternate Name: Mt. of the Virgin Convent
+harvard_short_list_text: Famous pilgrimage center. Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Arco di Traiano
+Alternate Name: Aroh of Trajan
+harvard_short_list_text: Also called Port' Aurea, Roman triumphal arch.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Cattedrale
+harvard_short_list_text: Famous bronze doors, 13th century; treasury;
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Bibiloteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.
+
+Region: Campania
+Province: Benevento
+Town: Cusano Mutri
+Name: San Nicola
+Alternate Name: Church of St. Nicholas
+harvard_short_list_text: Silver reliquary, XIV century, containing part of crown of thorns.
+
+Region: Campania
+Province: Benevento
+Town: Pescolamazza
+Name: San Salvatore
+Alternate Name: Church of the Holy Savior
+harvard_short_list_text: Containing the body of the martyr St. Reparata, much revered.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Cattedrale
+Alternate Name: San Gennaro Cathedral
+harvard_short_list_text: Dedicated to San Gennaro (St. Januarius), patron saint of Naples.
+In the Chapel of San Gennaro and in the treasury two small vessels con-
+taining the Saint's blood. On the first Saturday in May at the Church of Santa Chiara, and on September 19th and December 16th at the Cathedral,
+ceremonies take place at which the blood liquifies, attracting enormous crowds.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Santa Chiara
+Alternate Name: St. Clara
+harvard_short_list_text: XIV century tombs. First Saturday in May, liquification of the blood of St. Januarius (see above under Cattedrale).
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Santa Maria del Carmine
+Alternate Name: Carmelite Church of St. Mary
+harvard_short_list_text: Miraculous statue of the Virgin on the high altar.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Catacombe di San Gennaro
+harvard_short_list_text: Via San Gennaro dei Poveri.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Monastero di San Martino
+Alternate Name: Monastery of St. Martin
+harvard_short_list_text: Church, sacristy and museum. Baroque paintings.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Museo Nasionale
+harvard_short_list_text: Contains most of the objects found in Pompei and Hereulaneum. The most important museum of classical antiquities in the world.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Regia Universitia degli Studi
+Alternate Name: University of Naples
+harvard_short_list_text: Biblioteca Universitaria: 610,000 books, 117 manuscripts, engravings, early printed books, early editions, illustrated books on Dante. National property.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Biblioteca Nazionale
+Alternate Name: National Library
+harvard_short_list_text: 1,270,000 books, 10,647 manuscripts, 4,500 engravings.
+
+Region: Campania
+Province: Naples
+Town: Bacoli
+Name: Piscina Mirabile
+harvard_short_list_text: Largest and best preserved Roman water reservoir, built for the Roman fleet stationed in Misenum.
+
+Region: Campania
+Province: Napoli
+Town: Capri
+Name: Belvedere di Tragara
+Alternate Name: Villa of the Roman Emperor Tiberius
+harvard_short_list_text:
+
+Region: Campania
+Province: Caserta
+Town: Caserta
+Name: Palazzo Reale
+Alternate Name: Royal Palace
+harvard_short_list_text: And gardens.
+
+Region: Campania
+Province: Napoli
+Town: Cuma
+Name: Walls of the citadel of ancient Cumae
+harvard_short_list_text: Greek and Roman city.
+
+Region: Campania
+Province: Napoli
+Town: Ercolano
+Name: Ancient Herculaneum
+harvard_short_list_text: Buried by the same eruption of Mt. Vesuvius in 79 A.D. that buried Pompeii; partly excavated.
+
+Region: Campania
+Province: Napoli
+Town: Resina
+Name: Ancient theater of Herculaneum
+harvard_short_list_text:
+
+Region: Campania
+Province: Napoli
+Town: Marechiaro
+Name: Villa Pausilyp
+harvard_short_list_text:Region: Campania
+Province: Unspecified
+Town: Vedius Pollio
+Name: Theater of Vedius Pollio
+harvard_short_list_text: Ancient Roman theater
+
+Region: Campania
+Province: Napoli
+Town: Pompeii
+Name: Ancient Pompeii
+harvard_short_list_text: The most famous ruins of a Roman town, buried during the eruption of Mt. Vesuvius in 79 A.D., now largely excavated. Museum within excavations.
+
+Region: Campania
+Province: Napoli
+Town: Pozzuoli
+Name: Tempio di Serapide
+harvard_short_list_text: Two Roman amphitheaters; so-called Tempio di Serapide.
+
+Region: Campania
+Province: Napoli
+Town: Sant' Angelo in Formis
+Name: Basilica di Sant' Angelo in Formis
+harvard_short_list_text: Important mediaeval frescoes.
+
+Region: Campania
+Province: Caserta
+Town: Santa Maria Capua Vetere
+Name: Amfiteatro Campano
+harvard_short_list_text: One of the most important Roman amphitheaters.
+
+Region: Campania
+Province: Caserta
+Town: Santa Maria Capua Vetere
+Name: Mithraeum
+harvard_short_list_text: Sanctuary of Mithras, in the Vicolo Quartiere.
+
+Region: Campania
+Province: Caserta
+Town: Sessa Aurunca
+Name: Ponte degli Aurunci
+Alternate Name: Ponte Ronsso
+harvard_short_list_text: Roman bridge.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Duomo San Matteo
+Alternate Name: St. Matthew's Cathedral
+harvard_short_list_text: 11th century; mosaics, tombs, pulpits, ivories. Festival, eve and day of St. Matthew, Sept. 20-21.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Archivio Arcivescovile
+Alternate Name: Archepiscopal Archives
+harvard_short_list_text: Ancient charters.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Biblioteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Early manuscripts including Exultet Roll, 13th cent.
+
+Region: Campania
+Province: Salerno
+Town: Amalfi
+Name: Duomo Sant' Andrea
+Alternate Name: St. Andrew's Cathedral
+harvard_short_list_text: 11th century; bronze doors; crypt with body of Saint. Festival November 30.
+
+Region: Campania
+Province: Salerno
+Town: Atrani
+Name: San Salvatore
+Alternate Name: Church of the Holy Savior
+harvard_short_list_text: With bronze doors, 11th century.
+
+Region: Campania
+Province: Salerno
+Town: Cava dei Tirreni
+Name: Biblioteca della Badia della Santissima Trinità
+Alternate Name: Library of the Abbey of the Most Holy Trinity
+harvard_short_list_text: 40,000 books, 300 manuscripts, 13,000 early charters. National property administered by the Benedictine monks.
+
+Region: Campania
+Province: Salerno
+Town: Padula
+Name: Certosa di San Lorenzo
+Alternate Name: Carthusian Monastery of St. Lawrence
+harvard_short_list_text: National monument.
+
+Region: Campania
+Province: Salerno
+Town: Paestum
+Name: Basilica
+harvard_short_list_text: Among most important monuments of Italy.
+
+Region: Campania
+Province: Salerno
+Town: Paestum
+Name: Tempio di Nettuno
+Alternate Name: Temple of Neptune
+harvard_short_list_text: Among most important monuments of Italy.
+
+Region: Campania
+Province: Salerno
+Town: Paestum
+Name: Tempio di Cerere
+Alternate Name: Temple of Ceres
+harvard_short_list_text: Among most important monuments of Italy. Original Greek town walls, Roman theatre, forum, amphitheater; small museum with the finds from the temple of Hera at the mouth of the River Sele.
+
+Region: Campania
+Province: Salerno
+Town: Ravello
+Name: Duomo San Pantaleone
+harvard_short_list_text: Famous bronze doors, fine pulpit. Festival at which the Saint's blood liquifies, July 27.
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Forum Romanum
+harvard_short_list_text: Literally; Roman Market-Place, including Museo del Foro (Museum of the Forum). Area of excavations still in progress. Center of public life and administration of Justice in ancient Rome.
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Palatine Hill
+harvard_short_list_text: Excavations still in progress. The cradle of Rome, and site of the palaces of ancient Imperial Rome.
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Fori Imperiali
+harvard_short_list_text: The Fora (business and judicial centres) built by Caesar and Augustus, Norva and Trajan, with the Mercati di Trajano (market of Trajan) Basilion of Constantine and ancient street behind it.
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Colosseum
+Alternate Name: Flavian Amphitheatre
+harvard_short_list_text: The monumental Amphitheatre of Flavius. Area of excavations connected by Via dell' Impero.
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Domus Aurea
+Alternate Name: The Golden House of the Emperor Nero
+harvard_short_list_text:
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Monte Celio
+harvard_short_list_text: Region of Monte Celio (Caelian hill)
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Terme di Caracalla
+harvard_short_list_text: The most imposing structure of its kind in Italy; Tomba degli Scipioni (Cemetery of the Scipios).
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Catacombs of San Callisto
+Alternate Name: St. Calixtus Catacombs
+harvard_short_list_text:
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Catacombs of San Protestato
+harvard_short_list_text: On Via Appia Pignatelli with important museum (early Christian antiquities)
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Tomba di Caecilia Metella
+Alternate Name: Mausoleum of Caecilia Metella
+harvard_short_list_text:
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Porta Maggiore
+harvard_short_list_text: Between the Lateran, the Colosseum, and Porta Maggiore (the Great Gate)
+
+Region: Lazio
+Province: Roma
+Town: Rome
+Name: Tempio di Minerva Medica
+Alternate Name: Temple of Minerva Medica
+harvard_short_list_text: So-called Tempio di Minerva Medica.for Image/Page 5 ******
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Porta Tiburtina
+harvard_short_list_text: 
+
+Name: Ponte Lucano
+Alternate Name: Roman bridge
+harvard_short_list_text: 
+
+Name: Tomb of the Plautii
+harvard_short_list_text: 
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Temple of Hadrian
+harvard_short_list_text: In Plazza di Pietra
+
+Name: Ponte Milvio
+Alternate Name: Ponte Molle
+harvard_short_list_text: 
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Pantheon
+harvard_short_list_text: The only completely preserved Roman Building in the city
+
+Name: Ara Pacis
+Alternate Name: Altar of Peace
+harvard_short_list_text: Reconstructed, near Mausoleum of Augustus
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Theater of Marcellus
+harvard_short_list_text: 
+
+Name: Three temples of Foro Qlitorio
+harvard_short_list_text: The vegetable market of ancient Rome
+
+Name: So-called Temple of Fortuna
+Alternate Name: In the Forum Boarium
+harvard_short_list_text: 
+
+Name: So-called Temple of Vesta
+Alternate Name: In the Forum Boarium
+harvard_short_list_text: 
+
+Name: Arco degli Argentarii
+Alternate Name: Arch of the Bankers
+harvard_short_list_text: 
+
+Name: Ponte Fabricio
+harvard_short_list_text: Roman bridge to the Isola Tiberina, in the Tiber
+
+Name: Ponte Cestio
+harvard_short_list_text: Roman bridge to the Isola Tiberina, in the Tiber
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Pyramid of Cestius
+harvard_short_list_text: Tomb of Ceatius
+
+Name: Castel Sant'Angelo
+Alternate Name: Mausoleum of the Roman Emperor Hadrian
+harvard_short_list_text: 
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Plazza del Campidoglio
+harvard_short_list_text: Guard of the Capitol, designed by Michelangelo; Roman equestrian status by the Emperor Marcus Aurelius.
+
+Name: Plazza Navona
+Alternate Name: Formerly the Stadium of Domitian
+harvard_short_list_text: Contains church of Sant'Agnese, Palazzo Pasphill, and fountains by Bernini.
+
+Name: Plazza del Popolo
+harvard_short_list_text: 
+
+Name: Obelink and Baroque Churshes
+harvard_short_list_text: 
+
+Name: Plazza di San Pletro
+Alternate Name: Square of St. Peter's
+harvard_short_list_text: Seventeenth century colonnades designed by Bernini, fountains, and obelisk.
+
+Name: Plazza Venezia
+harvard_short_list_text: With Palazzo Venezia and National Monument to Victor Emmanuel II, with the Tomb of the Unknown Soldier.
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Santa Costanza
+harvard_short_list_text: 9th century mosaics
+
+Name: San Stefano Rotondo
+harvard_short_list_text: Medieval and interesting monuments
+
+Name: Santa Maria Antiqua
+harvard_short_list_text: Frescoes of 7th and following centuries
+
+Name: Santa Sabina
+harvard_short_list_text: Early Christian mosaics, 5th century wooden doors
+
+Name: Santi Andrea al Quirinale
+harvard_short_list_text: By Bernini
+
+Name: San Carlo alle Quattro Fontane
+Alternate Name: At the Four Fountains
+harvard_short_list_text: By Borromini
+
+Name: Church of Gesù
+Alternate Name: Principal church of the Jesuits
+harvard_short_list_text: 16th century, by Vignola and Giacomo della Porta.
+
+Name: Santa Maria della Pace
+harvard_short_list_text: Cloisters, frescoes by Raphael.
+
+Name: Santa Maria delle Vittorie
+harvard_short_list_text: 17th century, by Maderna; famous sculpture by Bernini.
+
+Name: Santa Croce in Gerusalemme
+harvard_short_list_text: 
+
+Name: San Giovanni in Laterano
+harvard_short_list_text: Founded by Constantine the Great, present building 17th century.
+
+Name: San Lorenzo fuori le Mura
+harvard_short_list_text: 
+
+Name: Santa Maria Maggiore
+harvard_short_list_text: Founded in 4th century, early Christian mosaics.
+
+Name: San Prolo fuori le Mura
+harvard_short_list_text: Founded in 4th century, 5th century mosaics, important sculpture.
+
+Name: San Sebastiano
+Alternate Name: At the Catacombs of St. Sebastiano
+harvard_short_list_text: 
+
+Region: Central Italy
+Province: Rome
+Town: Rome
+Name: Barberini Palace
+Alternate Name: Can un/t is padanas
+harvard_short_list_text: Bernini, and Borromini, paintings
+
+Name: Palazzo della Cancelleria
+harvard_short_list_text: Late 16th century, probably by A. d1 San Gallo.
+
+Name: Colonna Palace
+harvard_short_list_text: Collection of paintings, 15th-18th centuries.
+
+Name: Palazzo del Conservatori
+harvard_short_list_text: Built from plans of Michelangelo.
+
+Name: Corsini Palace
+harvard_short_list_text: 17th century; contains National Gallery of paintings and sculpture.
+
+Name: Doria Palace
+harvard_short_list_text: Important collection of paintings.uable books, including manuscripts from the Middle Ages and Renaissance, incunabula, and over 2,000 autograph letters from famous historical figures.
+Private Collections:
+Galleria Corsini Collection of ancient and Renaissance art.
+Casa Buonarotti Museum of Michelangelo's works.
+Galleria Doria-Pamphili Large art collection with works by Caravaggio, Titian, and Raphael, among others.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Palazzi
+harvard_short_list_text:
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Tirneso
+Alternate Name: 
+harvard_short_list_text: 16th cent., by A. di San Gallo and Michelangelo. Prosooes by Annibale Carracol. Former Frond, Ambusay, and ioole Frangaise de Rome (French school in Rae).
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: del laterano
+harvard_short_list_text: Belongs to Pope. Pamous colleotion of antique soulpture and oarly Chriatian art.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: del Quirinale
+harvard_short_list_text: 19th contury; roaldonce of KIng of Italy.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Vonesia
+harvard_short_list_text: With museun of medieval and renaissanoe art, and librury of Heale Istituto d'Aroheologis o Storia de 1'Arto.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Villa Farnosina
+harvard_short_list_text: 16th century, by B.Poruzzl and Raphnel. Presooos by Raphael.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: VIlla di Papa Giulia
+Alternate Name: VIlla Giulia
+harvard_short_list_text: 16th contury, by Vignola for Rope Jullus III. Decorated by Taddeo Zuocaro. Museum of Antiquitles.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Galleria Nazionale d'Arte Antlon (In Falazzo Corsini)
+harvard_short_list_text: Renaissance and Baroque painting: drawingo and ongravingo.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Museo o Galleria Borghese
+Alternate Name: VIlla Borgheso
+harvard_short_list_text: Antiquitios, Rennissance and Baroque painting and soulpture.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Museo Capitolino
+Alternate Name: Capitoline Museum
+harvard_short_list_text: Municipal oollection of ancient soulpture.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Museo Lateranonse
+harvard_short_list_text: In the Lateran Palaco (anolent and Early Chriation Art).
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Museo Nazionalo di Villa Giulia
+harvard_short_list_text: Most important colleotion of Etrusoan art in Rome.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Maseo Mastonnlo dolle Terme
+harvard_short_list_text: One of the most important colleotions of antiguities In the world, within ruins of the Terme al Dooleriano (Bathe of Dlooletian).
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Maneo del Palazzo del Consorvatori
+harvard_short_list_text: Anolent soulpturo; Renaissance gud Baroque paintings.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Masoo Prolatorioo od Etnografioo L. Pigorini
+harvard_short_list_text: In the Collegio Romano.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Galleria Dorio-Pamphill
+Alternate Name: 
+harvard_short_list_text: Painting, aomo antiquities.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Museo dI VIlla Albani
+harvard_short_list_text: Anolent soulpture.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: BIbiloteon Azionale Contrale Vittorio Smanuele II
+harvard_short_list_text: 900,000 books, 5,874 mas., 14,063 autographs. Incorporates library of the Jesult "Colleglo Ronano" and 69 librarles of Ronnn monasteries and convonts. Books on Rome; Arab, Chinese and Japanese collections, Inounabula, engravings, doouments. Con-plete depository of Italiun books since 1873. National property.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: BIGIloteon Janoisinan
+harvard_short_list_text: 40,000 bka», 341 mes. One of the largest l1braries in Europe of old and valuable books, including manuscripts from the Middle Ages and Renaissance, incunabula, and over 2,000 autograph letters from famous historical figures.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Galleria Corsini
+harvard_short_list_text: Collection of ancient and Renaissance art.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Casa Buonarotti
+harvard_short_list_text: Museum of Michelangelo's works.
+
+Region: Lazio (Latium)
+Province: Roma
+Town: Rome
+Name: Biblioteon Musionlo di Santa Cooilin
+harvard_short_list_text: 180,000 bks., 6,000 mms. Outstending mualcal library, with valuable manusoripta, raro old musio books, sores, librettos, and autographs of musiolans.Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: San Patro In Vationno
+Alternate Name: St. Peter's Basilica
+harvard_short_list_text: Founded by Emperor Constantine, over grave of St. Peter. Present church designed by Michelangelo, Maderna and Bernini. The largest, and most famous Christian Church.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Saore Grotto Vatloano
+Alternate Name: Crypts beneath St. Peter's Basilica
+harvard_short_list_text: Burial place of popes and nobles.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Museo Potriano
+harvard_short_list_text: Antiquities and objects relating to St. Peter.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Palazzo Vationno
+Alternate Name: The Vatican
+harvard_short_list_text: Residence of the Pope, and centre of Papal Administration. Present buildings date from 16th century, with 16th to 19th century additions. 
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Appartanenti Borgia
+Alternate Name: Borgia Apartments
+harvard_short_list_text: Decorated by Pinturicchio.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Stanze and Losge
+harvard_short_list_text: Decorated by Raphael and assistants.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Ohnpel of Icholas V
+Alternate Name: Niccoline Chapel
+harvard_short_list_text: Decorated by Fra Angelico.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: Slatino Chapol
+Alternate Name: Sistine Chapel
+harvard_short_list_text: With frescoes by leading 15th-century painters, including the Last Judgment by Michelangelo.
+
+Region: Lazio (Latium)
+Province: Vatican City
+Town: Vatican City
+Name: BIbIloteon Apostollon Vationa
+Alternate Name: Vatican Apostolic Library
+harvard_short_list_text: 500,000 books; 80,000 manuscripts; 8,000 engravings. One of the oldest and most famous libraries.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Castel Gandolfo
+Name: Palaszo Papelo
+Alternate Name: Papal Summer Palace
+harvard_short_list_text: In garden, remains of the villa of Domitian.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Cerveteri
+Name: Large Struson cometery
+harvard_short_list_text: With streets between the tombs.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Civitavecchia
+Name: Torme Taurino
+Alternate Name: Baths of Trajan
+harvard_short_list_text:
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Frascati
+Name: Ancient Tuaoulus abovo Prasoath
+harvard_short_list_text: Amphitheater, also called villa of the late Clori, doas and the Ted Vis centuries, with parts and gardens. Villa Aldobrandini, 2698-1603.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Grottaferrata
+Name: Abbey
+harvard_short_list_text: Founded 1004, fortified by Pope Julius II, 1486. Church, mosaics and frescoes 11,000 books, and at a later period, collections of early Greek and Roman antiquities.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Subiaco
+Name: Monstery of Santa Scolastion
+harvard_short_list_text: Founded by St. Benediet in the VI century. Three monasteries and a church. Romanesque buildings and mosaics; objects from the Villa of Nero.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Tivoli
+Name: Temple of the Sibyl
+harvard_short_list_text: Also rectangular temple nearby.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Tivoli
+Name: Temple of Hercules Victor
+Alternate Name: Villa of Hadrian
+harvard_short_list_text: Also called Villa of Hadrian.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Tivoli
+Name: Villa d'Este
+harvard_short_list_text: XVI century palace, gardens, and fountains.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Tivoli
+Name: Ville of Indrien
+harvard_short_list_text: The most imposing villa built by a Roman Emperor.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Palestrina
+Name: Temple of Fortuna Primigonia
+harvard_short_list_text: Ruins extending over much of the city.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Palestrina
+Name: Palazzo Enronale del Berberini
+Alternate Name: Barberini Palace
+harvard_short_list_text: 1408, containing Museo "renestino-Irberiniano, with Etruscan collections, and famous mosaio with scenes in Nile valley.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Prina Porta
+Name: Villa of Vin
+harvard_short_list_text: Also known as the River of Augustus, with famous wall painting.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Segni
+Name: Hall of large polygonal blocks
+harvard_short_list_text: With gates. Citadel of ancient Signia.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Velletri
+Name: Partially excavated
+harvard_short_list_text: Temple of Apollo; Roman street; "Ponte Sodo"; Tomba Campana; Wall of citadel (called Plaza d'Arm). 
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Alatri
+Name: Walls of large stone blocks
+harvard_short_list_text:Region: Lazio (Latium)
+Province: Littoria
+Town: Anagni
+Name: Duomo (Cathedral)
+harvard_short_list_text: Founded in 11th century, rebuilt 14th, mosaics; treasury
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Anagni
+Name: Museum
+harvard_short_list_text: Cathedral Library and Archives, manuscripts and charters, many papal.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Arpino
+Name: Citadel of Ancient Arpino
+harvard_short_list_text: With imposing walls and gate.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Cassino (Monte Cassino)
+Name: Roman Theater
+harvard_short_list_text: 
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Cassino (Monte Cassino)
+Name: Abbey of Monte Casino
+Alternate Name: Monte Casino Abbey
+harvard_short_list_text: Founded by St. Benedict in 629 A.D. Church (17th-18th century), 11th century bronze door; monastic buildings; picture gallery, one of the greatest monastic libraries, 20,000 books, 1,000 manuscripts (including the 6th century "Ambrosinater"), rich collection of charters and autographs. National property administered by the monks of the Abbey.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Perentino
+Name: Porta Sanguinaria
+harvard_short_list_text: Pre-Roman.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Cori
+Name: Temple of Hercules and its altar
+harvard_short_list_text: Partly incorporated in Church of San Pietro.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Fornia
+Name: Remains of Roman villa
+harvard_short_list_text: Supposed to have belonged to Clodius, in Villa Rubino.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Gaeta
+Name: Duomo
+harvard_short_list_text: Easter candlestick (c.1200); banner of Don John of Austria. In Archivio del Duomo, 3 Burnt Rolls, 11th-12th century. Near the City: Tomb of Munatius Planous (called Torre d'Orlando).
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Ninfa
+Name: Ruins of medieval often
+harvard_short_list_text: Mainly 12-18th century, with castle of the Caetini, two churches, and monastery.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Norma
+Name: Ruins of ancient Norba
+harvard_short_list_text: Including citadel, walls, two temples, aqueduct.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Priverno (formerly Piperno)
+Name: Abbazia di Fossanova
+Alternate Name: Fossanova Abbey
+harvard_short_list_text: 12th-13th century with cloisters and monastic buildings, where Thomas Aquinas died, 1274.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Terracina
+Name: Forum (Piazza del Municipio)
+harvard_short_list_text: With inscribed pavement and Cathedral (12th century) incorporating temple.
+
+Region: Lazio (Latium)
+Province: Littoria
+Town: Terracina
+Name: Temple of Jupiter Anxur
+harvard_short_list_text: Chief annuary of Terracina.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Chiesa di Santissima Trinita
+Alternate Name: Church of the Most Holy Trinity
+harvard_short_list_text: And adjacent cloister.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Palazzo Papale
+harvard_short_list_text: With Loggia, scene of 3 papal elections, 18th century.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Piazza San Pellegrino
+harvard_short_list_text: With medieval houses including Casa Posola, Palazzo degli Alessandri; adjacent, San Pellegrino quarter with many medieval houses.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Museo Civico
+harvard_short_list_text: In old monastery church of S. Maria della Verita; antiquities; paintings by Lorenzo da Viterbo.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Bolsena
+Name: Chiesa di Santa Cristina
+harvard_short_list_text: (11th-16th century); Renaissance sculpture, museum with Etruscan monuments; catacombs of St. Cristina and her tomb. Scene of the Miracle of Bolsena in 1263 (appearance of blood on the host) which led to institution of festival of Corpus Christi.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Faleria (Malleri, Paleris)
+Name: Ruins of Roman city of Faleria
+harvard_short_list_text: With well-preserved wall.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Montalto di Castro
+Name: Remains of Etruscan city of Vulci
+harvard_short_list_text: Walls, temple, bath, tombs.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Tarquinia (Corneto)
+Name: Palazzo Vitelleschi
+harvard_short_list_text: (18th-16th century), with Museo Nazionale Tarquiniese, important Etruscan collection. Environa: Etruscan cemetery, with painted tombs.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Tuscania (formerly Tosonnelin)
+Name: Chiesa di San Pietro
+harvard_short_list_text: (VIII-XII centuries); choir screen, 11th century frescoes.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Vetralla
+Name: Etruscan Necropolis of Norchia
+harvard_short_list_text:Region: Unknown
+Province: Ascoli Piceno
+Town: Ascoli Piceno
+Name: Duomo
+Alternate Name: Sant'Emidio
+harvard_short_list_text: Main altar, choir stalls, bishop's throne, altarpiece (Crivelli); treasury. Baptistery (12th cent), font.
+
+Region: Unknown
+Province: Ascoli Piceno
+Town: Ascoli Piceno
+Name: Palazzo Apostolico
+harvard_short_list_text: With museum; paintings, tapestries, ceramics. Pilgrimages on all festivals of Virgin, especially September 8.
+
+Region: Unknown
+Province: Ascoli Piceno
+Town: San Francesco
+harvard_short_list_text: Palazzo Comunale with Pinacoteca and Museo Civico; prehistoric and Roman antiquities, wrought iron, vestments.
+
+Region: Unknown
+Province: Macerata
+Town: Macerata
+Name: Pinacoteca
+harvard_short_list_text: Paintings, ceramics.
+
+Region: Unknown
+Province: Macerata
+Town: Macerata
+Name: Biblioteca Comunale
+Alternate Name: Municipal Library
+harvard_short_list_text: 117,000 books, 609 manuscripts; materials dealing with Dante and civil and ecclesiastical history of the region.
+
+Region: Unknown
+Province: Macerata
+Town: Recanati
+Name: Duomo
+Alternate Name: San Flaviano
+harvard_short_list_text: Treasury.
+
+Region: Unknown
+Province: Macerata
+Town: Palazzo Leopardi
+harvard_short_list_text: Home of the great Italian poet with his private library, 26,000 books; autographs and documents.
+
+Region: Unknown
+Province: Pesaro and Urbino
+Town: Pesaro
+Name: Palazzo Ducale
+harvard_short_list_text: Collinga. Pinacoteca and museum of ceramics.
+
+Region: Unknown
+Province: Pesaro and Urbino
+Town: Pesaro
+Name: Museo Oliveriano
+harvard_short_list_text: Prehistoric and Roman antiquities, medieval and Renaissance sculpture, paintings and ceramics; library; 75,000 books, 200 manuscripts (16 illuminated). Property of private association. Environa: Villa Imperiales frescoes, courts, gardens.
+
+Region: Unknown
+Province: Pesaro and Urbino
+Town: Urbino
+Name: San Domenico
+harvard_short_list_text: Portal with terra cotta relief.
+
+Region: Unknown
+Province: Pesaro and Urbino
+Town: Fano
+Name: Triumphal arch of Augustus
+Alternate Name: Arested Augustus
+harvard_short_list_text: Erected A.D. 9.
+
+Region: Toscana
+Province: Arezzo
+Town: Arezzo
+Name: Duomo
+harvard_short_list_text: Sculpture, especially richly decorated tombs.
+
+Region: Toscana
+Province: Arezzo
+Town: Arezzo
+Name: Pieve di Santa Maria in Gradi
+harvard_short_list_text: Altarpiece by Lorenzetti.
+
+Region: Toscana
+Province: Arezzo
+Town: San Francesco
+harvard_short_list_text: Famous frescoes by Piero della Francesca.
+
+Region: Toscana
+Province: Arezzo
+Town: Liceo
+harvard_short_list_text: Prehistoric, Etruscan and Roman (Aretine pottery) collections; paintings; library with early manuscripts.
+
+Region: Toscana
+Province: Cortona
+Town: Duomo
+Alternate Name: Santa Maria
+harvard_short_list_text: Roman sarcophagus; paintings; vestments.
+
+Region: Toscana
+Province: Cortona
+Town: Battistero (Chiesa del Gesù)
+harvard_short_list_text: Paintings by Fra Angelico.
+
+Region: Toscana
+Province: Cortona
+Town: San Domenico
+harvard_short_list_text: Paintings by Angelico, Sassetta, Signorelli.

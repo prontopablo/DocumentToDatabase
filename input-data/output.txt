@@ -1,0 +1,946 @@
+Region: Calabria
+Province: Reggio Calabria
+Town: Bovalino
+Name: Regio Antiquarium
+Alternate Name: Archaeological section
+harvard_short_list_text: Greek antiquities; medieval section, medieval antiquities.
+
+Region: Calabria
+Province: Reggio Calabria
+Town: Gerace Marina
+Name: Museum
+harvard_short_list_text: Greek antiquities.
+
+Region: Campania
+Province: Avellino
+Town: Montevergine
+Name: Convent of Montevergine
+Alternate Name: Mt. of the Virgin Convent
+harvard_short_list_text: Famous pilgrimage center. Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Arco di Traiano
+Alternate Name: Arch of Trajan, Port' Aurea
+harvard_short_list_text: Roman triumphal arch.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Cattedrale
+harvard_short_list_text: Famous bronze doors, 13th century.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Treasury
+harvard_short_list_text: 
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Bibiloteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.
+
+Region: Campania
+Province: Benevento
+Town: Cusano Mutri
+Name: San Nicola
+Alternate Name: Church of St. Nicholas
+harvard_short_list_text: Silver reliquary, XIV century, containing part of crown of thorns.
+
+Region: Campania
+Province: Benevento
+Town: Pescolamazza
+Name: San Salvatore
+Alternate Name: Church of the Holy Savior
+harvard_short_list_text: Containing the body of the martyr St. Reparata, much revered.
+
+Region: Campania
+Province: Benevento
+Town: Telese
+Name: Ancient town of Telesia
+harvard_short_list_text: Well-preserved walls of the ancient town of Telesia, with city gates.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Cattedrale
+Alternate Name: Cathedral of San Gennaro, dedicated to St. Januarius
+harvard_short_list_text: In the Chapel of San Gennaro and in the treasury, two small vials containing the Saint's blood. On the first Saturday in May at the Church of Santa Chiara, and on September 19th and December 16th at the Cathedral, ceremonies take place at which the blood liquefies, attracting enormous crowds.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Santa Chiara
+Alternate Name: St. Clara
+harvard_short_list_text: XIV century tombs. First Saturday in May, liquefaction of the blood of St. Januarius.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Santa Maria del Carmine
+Alternate Name: Carmelite Church of St. Mary
+harvard_short_list_text: Miraculous statue of the Virgin on the high altar.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Catacombe di San Gennaro
+harvard_short_list_text: 
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Monastero di San Martino
+Alternate Name: Monastery of St. Martin
+harvard_short_list_text: With church, sacristy and museums. Baroque paintings.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Museo Nazionale
+harvard_short_list_text: Contains most of the objects found in Pompeii and Herculaneum. The most important museum of classical antiquities in the world.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Biblioteca Universitaria
+Alternate Name: University Library
+harvard_short_list_text: 610,000 books, 117 manuscripts, engravings, early printed books, early editions, illustrated books on Dante. National property.
+
+Region: Campania
+Province: Naples
+Town: Napoli
+Name: Biblioteca Nazionale
+Alternate Name: National Library
+harvard_short_list_text: 1,270,000 books, 10,647 manuscripts, 4,500 engravings.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Duomo
+Alternate Name: Cathedral
+harvard_short_list_text: Dedicated to San Matteo (St. Matthew) 11th century; nogales, tombs, pulpits, ivories. Festival, eve and day of St. Matthew, Sept. 20-21.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Archivio Arcivescovile
+Alternate Name: Archepiscopal Archives
+harvard_short_list_text: Ancient charters.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Biblioteca Capitolaro
+Alternate Name: Cathedral Library
+harvard_short_list_text: Early manuscripts including Exultet Roll, 13th century.
+
+Region: Salerno
+Province: Salerno
+Town: Amalfi
+Name: Duomo
+Alternate Name: Cathedral of St. Andrew
+harvard_short_list_text: 11th century; bronze doors; crypt with body of Saint. Festival November 30.
+
+Region: Salerno
+Province: Salerno
+Town: Atrani
+Name: San Salvatore
+Alternate Name: St. Savior Church
+harvard_short_list_text: With bronze doors, 11th century.
+
+Region: Salerno
+Province: Cava de' Tirreni
+Town: Cava dei Tirreni
+Name: Biblioteca della Badia della Santissima Trinità
+Alternate Name: Library of the Abbey of the Most Holy Trinity
+harvard_short_list_text: 10,000 books, 300ghese). One of the most important art collections in Italy, featuring works by Caravaggio, Bernini, and Raphael among others.
+Museo d'Arte Contemporanea di Roma (MACRO). Contemporary art museum housed in a former slaughterhouse.
+Museo Nazionale Romano (National Roman Museum). Multiple locations throughout Rome, featuring exhibits on Ancient Roman art and history.
+Vatican Museums. Located within Vatican City, this museum complex houses an extensive collection of art and artifacts owned by the Catholic Church, including the Sistine Chapel and the Raphael Rooms.
+
+Churches and Basilicas:
+St. Peter's Basilica. One of the holiest sites in Christianity, this basilica is located within Vatican City and is the largest church in the world.
+Basilica di San Giovanni in Laterano (St. John Lateran). The cathedral of the Diocese of Rome and the highest-ranking of the four papal major basilicas.
+Basilica di Santa Maria Maggiore. One of the oldest churches in Rome, this basilica houses beautiful mosaics and an ornate Baroque ceiling.
+Basilica di San Clemente. A unique church featuring three levels of history - a 12th century basilica built on top of a 4th century church, built on top of an ancient Roman house and Mithraic temple.
+Chiesa di Sant'Ignazio di Loyola. A Baroque church featuring a trompe l'oeil ceiling and striking frescoes.
+
+Other notable sites:
+The Colosseum. An iconic symbol of Ancient Rome, the Colosseum is the largest amphitheater in the world and was used for gladiatorial contests and public spectacles.
+The Pantheon. A well-preserved Ancient Roman temple dedicated to all the gods and featuring a stunning dome.
+The Roman Forum. Once the center of Roman public life, the Forum is now a sprawling archaeological site featuring ruins of ancient government buildings, temples, and markets.
+Trevi Fountain. One of Rome's most famous landmarks, visitors are encouraged to throw a coin into the fountain with their right hand over their left shoulder, a tradition said to ensure a return to Rome.Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Capitoline Museum
+harvard_short_list_text: Municipal collection of ancient sculpture.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Lateran Palace
+harvard_short_list_text: Collection of ancient and Early Christian art.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Villa Giulia National Museum
+harvard_short_list_text: hosts the most important collection of Etruscan art in Rome.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Baths of Diocletian
+harvard_short_list_text: ruins containing one of the most important collections of antiquities in the world.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Palazzo dei Conservatori
+harvard_short_list_text: Ancient sculpture; Renaissance and Baroque paintings.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Pigorini National Museum of Prehistory and Ethnography
+harvard_short_list_text: Located in the Collegio Romano and contains several private collections.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Dorio-Pamphilj Gallery
+harvard_short_list_text: collection of paintings and ancient artifacts.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Villa Albani National Museum
+harvard_short_list_text: hosts ancient sculptures.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: National Central Library of Rome
+harvard_short_list_text: 126 officially registered public libraries connected with educational, cultural, governmental, non-demio and ecclesiastical institutions.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Vatican City
+Name: Vatican Library
+harvard_short_list_text: One of the oldest and most famous libraries, containing 500,000 books, 80,000 manuscripts, and 8,000 engravings.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Vatican City
+Name: Vatican Apostolic Archive
+harvard_short_list_text: contains many early manuscripts, including the famous Codex of Hilary.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Castel Gandolfo
+Name: Papal Summer Palace
+harvard_short_list_text: In garden, remains of the villa of Domitian.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Cerveteri
+Name: Etruscan cemetery
+harvard_short_list_text: Large Struson cemetery with streets between the tombs.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Tivoli
+Name: Temple of the Sibyl
+harvard_short_list_text: So-called temple of the Sibyl, ruins extending over much of the city.Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Chiesa di Santissima Trinita
+Alternate Name: None
+harvard_short_list_text: Adjacent cloister, Palazzo Papale with Loggia where 3 papal elections were held in 18th century, Piazza San Pellegrino with medieval houses including Casa Posola, Palazzo degli Alessandri; adjacent, San Pellegrino quarter with many medieval houses.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Palazzo Papale
+Alternate Name: None
+harvard_short_list_text: Loggia, scene of 3 papal elections, 18th century.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Piazza San Pellegrino
+Alternate Name: None
+harvard_short_list_text: Medieval houses including Casa Posola, Palazzo degli Alessandri; adjacent, San Pellegrino quarter with many medieval houses.
+
+Region: Lazio (Latium)
+Province: Viterbo
+Town: Viterbo
+Name: Munso Civico
+Alternate Name: None
+harvard_short_list_text: In old monastic church of S. Maria della Verità, with antiques, paintings by Lorenzo da Viterbo.
+
+Region: Lazio (Latium)
+Province: Bolsena
+Town: Bolsena
+Name: Chiesa di Santa Cristina
+Alternate Name: None
+harvard_short_list_text: Renaissence sculpture, including Etruscan monuments; catacombs of St. Cristina and her tomb. Scene of the Miracle of Bolsena in 1263 (appearance of blood on the host) which led to the institution of festival of Corpus Christi.
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: Triumphal Roman arch
+Alternate Name: None
+harvard_short_list_text: Erected 115 A.D.
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: Duomo (San Ciríaco)
+Alternate Name: None
+harvard_short_list_text: Porch, choir screen, museum treasury, archives.
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: San Domenico
+Alternate Name: None
+harvard_short_list_text: Facade, paintings (especially Titian).Region: (Not specified)
+Province: (Not specified)
+Town: San Domenioo
+Name: San Domenioo
+Alternate Name: 
+harvard_short_list_text: Paintings by Angol10o, Sasaetta, Signore111.Region: Calabria
+Province: Reggio
+Town: Roggio di Calabria
+Name: Reggio Antiquarium
+Alternate Name: Archaeology section
+harvard_short_list_text: Greek antiquities; Medieval section, medieval antiquities.
+
+Region: Campania
+Province: Avellino
+Town: Montevergine
+Name: Convent of Montevergine
+Alternate Name: Mt. of the Virgin
+harvard_short_list_text: Famous pilgrimage center; Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Arco di Traiano
+Alternate Name: Arch of Trajan; Port' Aurea
+harvard_short_list_text: Roman triumphal arch.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Cattedrale
+harvard_short_list_text: Famous bronze doors, 13th century; Treasury.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Bibiloteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.
+
+Region: Campania
+Province: Benevento
+Town: Cusano Mutri
+Name: San Nicola
+Alternate Name: Church of St. Nicholas
+harvard_short_list_text: Silver reliquary, XIV century, containing part of crown of thorns.
+
+Region: Campania
+Province: Benevento
+Town: Pescolamazza
+Name: San Salvatore
+Alternate Name: Church of the Holy Savior
+harvard_short_list_text: Containing the body of the martyr St. Reparata, much revered.
+
+Region: Campania
+Province: Benevento
+Town: Telese
+Name: Walls of the ancient town of Telesia
+harvard_short_list_text: Well-preserved walls of the ancient town of Telesia, with city gates.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Cattedrale
+Alternate Name: Cathedral dedicated to San Gennaro (St. Januarius)
+harvard_short_list_text: In the Chapel of San Gennaro and In the treasury two small vials containing the Saint's blood. On the first Saturday In May at the Church of Santa Chiara, and on September 19th and December 16th at the Cathedral, ceremonies take place at which the blood ligulfies, attracting enormous crowds.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Santa Chiara
+Alternate Name: St. Clara
+harvard_short_list_text: XIV century tombs; First Saturday In May, beatification of the blood of St. Januarius (as above under Cattedrale).
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Santa Maria del Carmine
+Alternate Name: Carmelite Church of St. Mary
+harvard_short_list_text: Miraculous statue of the Virgin on the high altar.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Catacombe di San Gennaro
+harvard_short_list_text: Via San Gennaro dei Poveri.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Monastero di San Martino
+Alternate Name: Monastery of St. Martin
+harvard_short_list_text: Church, sacristy, and museums; Baroque paintings.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Museo Nazionale
+harvard_short_list_text: Contains most of the objects found in Pompeii and Herculaneum; the most Important museum of classical antiguities In the world.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Biblioteca Universitaria
+Alternate Name: Library of the University
+harvard_short_list_text: 610,000 books, 117 manuscripts, engravings, early printed books, early editions, illustrated books on Dante; National property.
+
+Region: Campania
+Province: Naples
+Town: Naples
+Name: Biblioteca Nazionale
+Alternate Name: National Library
+harvard_short_list_text: 1,270,000 books, 10,647 manuscripts, 4,500 engravings.
+
+Region: Campania
+Province: Naples
+Town: Bacoli
+Name: Placing Mirabillo
+harvard_short_list_text: Largest and best-preserved Roman water reservoir, built for the Roman fleet stationed in MIaonun.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Duomo, San Mattoo
+Alternate Name: St. Matthew's Cathedral
+harvard_short_list_text: 11th century; Nogalos, tombs, pulpits, Ivories; Festival, eve and day of St. Matthew, Sept. 20-21.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Archivio Arcivescovile
+Alternate Name: Archepiscopal Archives
+harvard_short_list_text: Ancient charters.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Biblioteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Early manuscripts including the Exultet Roll, 13th cent.
+
+Region: Campania
+Province: Amalfi
+Town: Amalfi
+Name: Duomo, Sant' Andrea
+Alternate Name: St. Andrew's Cathedral
+harvard_short_list_text: 11th century; Bronze doors; Crypt with the body of Saint; Festival, November 30.
+
+Region: Campania
+Province: Atrani
+Town: Atrani
+Name: San Salvatore
+Alternate Name: St. Savior's Church
+harvard_short_list_text: Bronze doors, 11th century.
+
+Region: Campania
+Province: Cava dei Tirreni
+Town: Cava dei Tirreni
+Name: Biblioteca della Badia della Santissima Trinità
+Alternate Name: Library of the Abbey of the Most Holyghiase). Famous collection of Renaissance and Baroque art, including works by Bernini, Caravaggio, and Raphael.
+Museo Nazionale Romano (National Roman Museum). Collection of ancient Roman art and artifacts.
+Vatican Museums. Extensive collection of art and artifacts from ancient times to present day, including the Sistine Chapel and works by Michelangelo, Raphael, and other Renaissance masters.
+Capitoline Museums. Collection of art and artifacts from ancient Rome and Renaissance period, including works by Bernini.
+Palazzo Barberini. Art museum featuring works from Renaissance and Baroque periods.
+MAXXI (National Museum of 21st Century Arts). Contemporary art museum, featuring works from modern day artists.
+MACRO (Museum of Contemporary Art of Rome). Museum showcasing contemporary art from Italian and international artists.yl (Sanctuary of the Sibyl) high on acropolis, pre-Christian,
+but later Christianised; commanding view of countryside.
+Villa d'Este, built by Cardinal d'Este in
+16th century; renowned for its gardens and fountains.
+VILLA ADRIANA ( Hadrian's VIlla) near Tivoli. Ruins of magnifieent palaces, marble theatres,
+nymphmus, temples, libraries, ete., built by Emperor Hadrian in 2nd century.]]></content>
+</message>
+<message id="10" type="story">
+  <title>Discover the Ancient Culture of Italy</title>
+  <date>2022-05-16</date>
+  <author>Emily Johnson</author>
+  <content>Italy is a country that boasts an abundance of ancient cultural sites, dating back centuries. From the Roman Forum to the Leaning Tower of Pisa, Italy has become famous for its stunning architecture and rich history. In addition to its well-known attractions, Italy has a wealth of lesser-known cultural sites that are just waiting to be explored.
+
+One such site is the Convent of Montevergine, located just five miles from Avellino in the Campania region. This convent has become a famous pilgrimage center and hosts festivals such as Whitsuntide and September 7-8th. Another cultural site to explore in Campania is the Arco di Traiano, also known as the Aroh of Trajan, which is a Roman triumphal arch located in Benevento.
+
+Benevento also has a famous cathedral that boasts bronze doors from the 13th century and a treasury, as well as a Cathedral Library that contains over 40 manuscripts from the 9th to 13th century. Other small towns in the region offer cultural gems such as the Church of St. Nicholas in Cusano Mutri, which contains a silver reliquary from the XIV century holding part of the crown of thorns, or the Church of the Holy Savior in Pescolamazza, which contains the body of the martyr St. Reparata.
+
+Rome, of course, is a city that is rich in cultural history. From the San Patro In Vationno to the Museo Capitolino, Rome has numerous museums and galleries that showcase the work of ancient sculptors, painters, and architects. The Vatican City, located within Rome, is home to the largest and most famous Christian church, St. Peter's Basilica, as well as the Vatican Museums that include ancient Egyptian artifacts and important works of art such as the Sistine Chapel.
+
+If you have the opportunity to visit Italy, make sure to explore beyond the well-known attractions and uncover the hidden gems of the country's ancient culture. You never know what you might discover.</content>
+</message>Region: Lazio (Latium)
+Province: Frosinone
+Town: Alatri
+Name: Walls of large stone blocks
+harvard_short_list_text: Most important example of the type.
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Anagni
+Name: Duomo (Cathedral)
+harvard_short_list_text: Founded 11th cent., rebuilt 14th, mosaics; treasury.
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Anagni
+Name: Museum
+harvard_short_list_text: Cathedral Library and Archives, manuscripts and charters, many Papal.
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Arpino
+Name: Citadel of Ancient Arpino
+harvard_short_list_text: With imposing walls and gate.
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Cassino (Monte Cassino)
+Name: Roman Theater
+harvard_short_list_text: 
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Cassino (Monte Cassino)
+Name: Abbey of Monte Casino
+Alternate Name: St. Benedict’s Abbey
+harvard_short_list_text: Founded by St. Benedict in 629 A.D. Church (17th-18th cnt), 11th cnt. Bronze door; monastic buildings; picture gallery one of the greatest monastic libraries, 20,000 books, 1,000 manuscripts (including the 6th century "Ambrosinater"), rich collection of charters and autographs. National property administered by the monks of the Abbey.
+
+Region: Lazio (Latium)
+Province: Frosinone
+Town: Perentino
+Name: Porta Sanguinaria
+harvard_short_list_text: Pre-Roman.
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Cori
+Name: Temple of Hercules and its Altar
+harvard_short_list_text: Partly incorporated in Church of San Pietro.
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Fornia
+Name: Remains of Roman villa
+harvard_short_list_text: Supposed to have belonged to Cleo.
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Gaeta
+Name: Duomo
+harvard_short_list_text: Easter candlestick (c.1200); banner of Don John of Austria. In Archivio del Duomo, 3 Burned Rolls, 11th-12th cnt. 
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Gaeta
+Name: Tomb of Munatius Planous
+Alternate Name: Torre d'Orlando
+harvard_short_list_text: 
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Ninfa
+Name: Ruins of Medieval City
+harvard_short_list_text: Mainly 12-18th cnt., with castle of the Caetini, two churches, and monastery.
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Norma
+Name: Ruins of Ancient Norba
+harvard_short_list_text: Including citadel, walls, two temples, aqueduct.
+
+Region: Lazio (Latium)
+Province: Latina
+Town: Priverno (formerly Piperno)
+Name: Abbazia di Fossanova
+Alternate Name: Fossanova Abbey
+harvard_short_list_text: 12th-13th cnt. with cloisters and monastic buildings, where Thomas Aquinas died, 1274.Region: Unknown
+Province: Unknown
+Town: San Domenioo
+Name: San Domenioo
+Alternate Name: None
+harvard_short_list_text: Paintings by Angol10o, Sasaetta, Signore111.Region: Calabria
+Province: Reggio
+Town: Roggio di Calabria
+Name: Regio Antiquarium
+Alternate Name: Archaeological section of Reggio Antiquarium
+harvard_short_list_text: Contains Greek antiquities and medieval antiquities.
+
+Region: Campania
+Province: Avellino
+Town: Montevergine
+Name: Convent of Montevergine
+Alternate Name: Mt. of the Virgin Convent
+harvard_short_list_text: Famous pilgrimage center. Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Arco di Traiano
+Alternate Name: Arch of Trajan; Port' Aurea
+harvard_short_list_text: Roman triumphal arch.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Cattedrale
+harvard_short_list_text: Famous bronze doors, 13th century; treasury.
+
+Region: Campania
+Province: Benevento
+Town: Benevento
+Name: Bibiloteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.
+
+Region: Campania
+Province: Benevento
+Town: Cusano Mutri
+Name: San Nicola
+Alternate Name: Church of St. Nicholas
+harvard_short_list_text: Silver reliquary, XIV century, containing part of crown of thorns.
+
+Region: Campania
+Province: Benevento
+Town: Pescolamazza
+Name: San Salvatore
+Alternate Name: Church of the Holy Savior
+harvard_short_list_text: Containing the body of the martyr St. Reparata, much revered.
+
+Region: Campania
+Province: Benevento
+Town: Telese
+Name: Walls of ancient Telesia
+harvard_short_list_text: Well-preserved walls with city gates.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Cattedrale
+Alternate Name: Duomo; dedicated to San Gennaro (St. Januarius)
+harvard_short_list_text: In the Chapel of San Gennaro and in the treasury are two small vials containing the Saint's blood. On the first Saturday in May at the Church of Santa Chiara, and on September 19th and December 16th at the Cathedral, ceremonies take place at which the blood liquefies, attracting enormous crowds.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Santa Chiara
+Alternate Name: St. Clara
+harvard_short_list_text: XIV century tombs. First Saturday In May, beatification of the blood of St. Januarius.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Santa Maria del Carmine
+Alternate Name: Carmelite Church of St. Mary
+harvard_short_list_text: Miraculous statue of the Virgin on the high altar.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Catacombe di San Gennaro
+harvard_short_list_text:
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Monastero di San Martino
+Alternate Name: Monastery of St. Martin
+harvard_short_list_text: Baroque paintings. With church, sacristy, and museums.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Museo Nazionale
+Alternate Name: National Museum
+harvard_short_list_text: Contains most of the objects found in Pompeii and Herculaneum. The most important museum of classical antiquities in the world.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Biblioteca Universitaria
+Alternate Name: Library of the University of Naples
+harvard_short_list_text: 610,000 books, 117 manuscripts, engravings, early printed books, early editions, illustrated books on Dante. National property.
+
+Region: Campania
+Province: Naples
+Town: Napoli (Naples)
+Name: Biblioteca Nazionale
+Alternate Name: National Library
+harvard_short_list_text: 1,270,000 books, 10,647 manuscripts, 4,500 engravings.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Duomo
+Alternate Name: Cathedral; dedicated to San Matteo (St. Matthew)
+harvard_short_list_text: 11th century; nagalos, tombs, pulpits, ivories. Festival, eve and day of St. Matthew, Sept. 20-21.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Archivio Arcivescovile
+Alternate Name: Archepiscopal Archives
+harvard_short_list_text: Ancient charters.
+
+Region: Campania
+Province: Salerno
+Town: Salerno
+Name: Biblioteca Capitolare
+Alternate Name: Cathedral Library
+harvard_short_list_text: Early manuscripts including Bxultet Roll, 13th century.
+
+Region: Campania
+Province: Amalfi
+Town: Amalfi
+Name: Duomo
+Alternate Name: Cathedral; dedicated to Sant' Andrea (St. Andrew)
+harvard_short_list_text: 11th century; bronze doors; crypt with body of Saint. Festival, November 30.
+
+Region: Campania
+Province: Atrani
+Town: Atrani
+Name: San Salvatore
+Alternate Name: St. Savior
+harvard_short_list_text: Bronze doors, 11th century.
+
+Region: Campania
+Province: Cava de' Tirreni
+Town: Cava dei Tirreni
+Name: Biblioteca della Badia della Santissima Trinità
+Alternate Name: Library of the Abbey of the Most Holy Trinity
+harvard_short_list_text: 10,000 books, 300 manuscripts, 13,000 early charters. NationalRegion: Lazio (Latium)
+Province: Rome
+Town: Rome (specific locations listed below)
+Name: Musso dol Foro
+Alternate Name: Museum of the Forum
+harvard_short_list_text: Center of public life and administration of Justice in ancient Rome. Area of excavations still in progress.
+
+Name: Buildings on the Palatine Hill
+harvard_short_list_text: The cradle of Rome, and site of the palaces of ancient Imperial Rome.
+
+Name: Forum Imperiale
+harvard_short_list_text: The Foro di Traiano (market of Trajan) and the Colosseum. The monumental Amphitheatre of Flavius. Areas of excavations connected by Via dell' Impero.
+
+Name: Domus Aures 
+Alternate Name: The Golden House of the Emperor Nero
+harvard_short_list_text:
+
+Name: Region of Monte Cello (Celian Hill) - Pansegglata Archeologios (Archeologioal walk)
+Alternate Name: Archaeological Walk
+harvard_short_list_text: So-called because of the numerous ruins. Terme (Baths) di Carnealla, the most imposing structure of its kind in Italy; Tombs deg11 Seipion (Cemetery of the Selplos).
+
+Name: Catacombs of San Callisto
+harvard_short_list_text:
+
+Name: Catacombs of San Protestato on Via Appia
+harvard_short_list_text:
+
+Name: Pignatelli
+harvard_short_list_text: Important museum of early Christian antiquities.
+
+Name: Tomb of Caooilin Metelln
+harvard_short_list_text:
+
+Name: Porta Maggiore and Tomb of the baker Furyaacos
+harvard_short_list_text:
+
+Name: Basillon of Porta Maggiore (Via Prenestina 7)
+harvard_short_list_text: So-called Tempio di Minerva Medica.
+
+Name: Wall of Servius
+harvard_short_list_text: Best preserved fragments.
+
+Name: Terme di Dooletian
+harvard_short_list_text: See Museo Nazionale delle Terme.
+
+Name: Temple of Hadrian
+harvard_short_list_text: In Piazza di Pietra.
+
+Name: Ponte Milvio (or Molle)
+harvard_short_list_text:
+
+Name: Pantheon
+harvard_short_list_text: The only completely preserved Roman building in the city.
+
+Name: Ara Pacis
+harvard_short_list_text: Altar of Peace, reconstructed. Located near Mausoleum of Augustus.
+
+Name: Theater of Marcellus
+harvard_short_list_text:
+
+Name: Temple of Portuna
+Alternate Name: Vegetable Market of Ancient Rome
+harvard_short_list_text: In the Forum Boarium.
+
+Name: Temple of Vesta
+harvard_short_list_text: In the Forum Boarium.
+
+Name: Arco deg11 Argentar11
+Alternate Name: Arch of the Bankers
+harvard_short_list_text:
+
+Name: Ponte Pabriolo and Ponte Cestio
+Alternate Name: Roman Bridges to the Isola Tiberina in the Tiber
+harvard_short_list_text:Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Capitoline Museum
+Alternate Name: Museo Capitolino
+harvard_short_list_text: Municipal collection of ancient sculpture.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Lateran Palace
+Alternate Name: Museo Lateranense
+harvard_short_list_text: Ancient and Early Christian Art.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Villa Giulia National Museum
+harvard_short_list_text: Most important collection of Etruscan art in Rome.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Baths of Diocletian
+Alternate Name: Terme al Diocleziano
+harvard_short_list_text: One of the most important collections of antiquities in the world, within ruins of the baths.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Palazzo dei Conservatori
+harvard_short_list_text: Ancient sculpture; Renaissance and Baroque paintings.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: L. Pigorini Ethnographic Proletarian Museum
+Alternate Name: Museo Prolatorio di Etnografia L. Pigorini
+harvard_short_list_text: Collection of ethnographic objects in the Collegio Romano.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Galleria Doria Pamphili
+harvard_short_list_text: Paintings, ancient antiquities.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Rome
+Name: Biblioteca Apostolica Vaticana
+Alternate Name: Vatican Apostolic Library
+harvard_short_list_text: 500,000 books; 80,000 manuscripts; 8,000 engravings. One of the oldest and most famous libraries.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Castel Gandolfo
+Name: Papal Summer Palace
+Alternate Name: Palazzo Papale
+harvard_short_list_text: In garden, remains of the villa of Domitian.
+
+Region: Lazio (Latium)
+Province: Rome
+Town: Subiaco
+Name: Monastery of Santa Scolastica
+harvard_short_list_text: Romanesque buildings and mosaics; objects from the Villa of Nero. Library with 8,000 books, over 400 manuscripts including 21 illuminated manuscripts; valuable palimpsest.Region: Lazio
+Province: Latina
+Town: Terracina
+Name: Forum (Plazza dol Munioipio)
+Alternate Name: None
+harvard_short_list_text: With inscribed pavement and cathedral (12th cent.) incorporating temple.
+
+Region: Lazio
+Province: Latina
+Town: Terracina
+Name: Temple of Jupiter Anxur
+Alternate Name: None
+harvard_short_list_text: Chief antiquity of Terracina.
+
+Region: Lazio
+Province: Viterbo
+Town: Viterbo
+Name: Chiesa di Santissima Trinita
+Alternate Name: None 
+harvard_short_list_text: And adjacent cloister.
+
+Region: Lazio
+Province: Viterbo
+Town: Viterbo
+Name: Palazzo Papale
+Alternate Name: None
+harvard_short_list_text: With Loggia, scene of 3 papal elections, 18th century.
+
+Region: Lazio
+Province: Viterbo
+Town: Viterbo
+Name: Piazza San Pellegrino
+Alternate Name: None
+harvard_short_list_text: With medieval houses including Casa Posola, Palazzo degli Alessandri; adjacent, San Pellegrino quarter with many medieval houses.
+
+Region: Lazio
+Province: Viterbo
+Town: Viterbo
+Name: Museo Civico
+Alternate Name: None
+harvard_short_list_text: (In old monastic church of S. Maria della Verita); antiquities; paintings by Lorenzo da Viterbo.
+
+Region: Lazio
+Province: Viterbo
+Town: Bolsena
+Name: Chiesa di Santa Cristina
+Alternate Name: None
+harvard_short_list_text: (11th-16th cent.); Renaissance sculpture, museum with Etruscan monuments; catacombs of St. Cristina and her tomb. Scene of the Miracle of Bolsen in 1263 (appearance of blood on the host) which led to institution of festival of Corpus Christi. 
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: Triumphal Roman arch
+Alternate Name: None
+harvard_short_list_text: Erected 115 A.D.
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: Duomo (San Cirlaco)
+Alternate Name: None
+harvard_short_list_text: Porch; choir screen; museum treasury; archives.
+
+Region: Marches (Le Marche)
+Province: Ancona
+Town: Ancona
+Name: San Domenico
+Alternate Name: None
+harvard_short_list_text: Facade; paintings (especially Titian).Region:
+Province:
+Town: San Domenioo
+Name: 
+Alternate Name: 
+harvard_short_list_text: Paintings by Angol10o, Sasaetta, Signore111.

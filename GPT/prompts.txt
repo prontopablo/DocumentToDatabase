@@ -1,0 +1,193 @@
+//Prompts
+  
+  const correctionTaskReminder = "Can you rewrite fully the following texts with corrected spelling? It's from a document listing Italian Monuments: "
+  const shortListsCombinedParserReminder = `
+  
+  REGION OF 'A'
+
+  Province of 'B'
+
+  [TOWN NAME IN CAPITAL LETTERS] (Optional additional information in parentheses)
+
+  [Name of cultural site 1] (Alternate name of cultural site 1) [description of cultural site].
+  [Name of cultural site 2] (Alternate name of cultural site 2) [description of cultural site].
+  ... etc etc.
+  [Name of cultural site n] (Alternate name of cultural site n) [description of cultural site].
+
+  ---
+
+  Here are some sample entries from our source document which obey this structure:
+
+  REGION OF CAMPANIA
+  Province of Avellino
+  MONTEVERGINE (5 miles from Avellino)
+  Convent of Montevergine (Mt. of the Virgin), famous pilgrimage center. Festivals,
+  Whitsuntide (7th Sunday after Easter); September 7-8th.
+  Province of Benevento
+  BENEVENTO
+  Arco di Traiano (Aroh of Trajan) also called Port' Aurea, Roman triumphal arch.
+  Cattedrale; famous bronze doors, 13th century; treasury;
+  Bibiloteca Capitolare
+  (Cathedral Library), over 40 manuscripts, 9th to 13th century.
+  CUSANO MUTRI - San Nicola (Church of St. Nicholas); silver reliquary, XIV century,
+  containing part of crown of thorns.
+  PESCOLAMAZZA - San Salvatore (Church of the Holy Savior) containing the body of the
+  martyr St. Reparata, much revered.
+  TELESE - Well-preserved walls of the ancient town of Telesia, with city gates.
+
+  For these given data, we need you to return information of the following structure:
+
+  Region: Campania
+  Province: Avellino
+  Town: Montevergine
+  Name: Convent of Montevergine
+  Alternate Name: Mt. of the Virgin Convent
+  harvard_short_list_text: Famous pilgrimage center. Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.
+
+  Region: Campania
+  Province: Benevento
+  Town: Benevento
+  Name: Arco di Traiano
+  Alternate Name: Aroh of Trajan
+  harvard_short_list_text: Also called Port' Aurea, Roman triumphal arch.
+
+  Region: Campania
+  Province: Benevento
+  Town: Benevento
+  Name: Cattedrale
+  harvard_short_list_text: Famous bronze doors, 13th century
+
+  Region: Campania
+  Province: Benevento
+  Town: Benevento
+  Name: Treasury
+  harvard_short_list_text:
+
+  Region: Campania
+  Province: Benevento
+  Town: Benevento
+  Name: Bibiloteca Capitolare
+  Alternate Name: Cathedral Library
+  harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.
+
+  Region: Campania
+  Province: Benevento
+  Town: Cusano Mutri
+  Name: San Nicola
+  Alternate Name: Church of St. Nicholas
+  harvard_short_list_text: Silver reliquary, XIV century,
+  containing part of crown of thorns.
+
+  Region: Campania
+  Province: Benevento
+  Town: Pescolamazza
+  Name: San Salvatore
+  Alternate Name: Church of the Holy Savior
+  harvard_short_list_text: Containing the body of the
+  martyr St. Reparata, much revered.
+
+  Return information of the same structure outlined here for the following source text:
+  `
+  const longListsReminder = `
+  Here are some sample data entries detailing cultural sites in Campania, Italy. They obey this structure:
+
+  [Town 'A']
+  
+  [Optional Star Rating count with * symbol] [Name of cultural site 1] (Alternate name of cultural site 1) [description of cultural site].
+  [Optional Star Rating count with * symbol] [Name of cultural site 2] (Alternate name of cultural site 2) [description of cultural site].
+  ... etc etc.
+  [Optional Star Rating count with * symbol] [Name of cultural site n] (Alternate name of cultural site n) [description of cultural site].
+  
+  
+  Acerra
+  • Duomo (Cathedral) (perhaps built on Roman temple of Hercules).
+  Castello
+  Agnano Terme
+  ****** Result for Image/Page 8 ******
+  fold3§
+  by -dancestry https://www.fold3.com/image/270195960
+  Declassified per Executive Order 12958, Section 3.5
+  NND Project Number: IND 750168 By: NND Date: 1975
+  Southern Italy
+  CAMPANIA
+  Acerra (cont.)
+  **
+  Arienzo
+  Imposing rains of Roman bath
+  Chiesa di Sant' Agostino (Church of St. Augustine): XIII centur;
+  wooden statue of the Nadonna
+  Sant' Andrea (Church of st. Andrew): noteworthy
+  church furniture
+  dell'Annunziata (Church o the Annunciation)
+  Atella
+  Ruins of the ancient city of Atella, Including walls,
+  arches,
+  streeta
+  Aversa
+  Chiosa doll/Annunciata (Church o the Annunciation)
+  di San Francesco (Church of St. Francis)
+  Santa Maria a plazza (Church of St. Mary at the
+  square) Medieval frescoes
+  Duomo (Cathedral): founded 18th cent., much altered later
+  Convento (Convent of St. Lawrence) di San Lorenzo. The church
+  of the convent has fine Romesque portal
+  and antique columns within.
+  Palazzo Sanfelice (or Paolizz1) (Sanfelice Palace)
+  Porta Napoli (Naples Cato): Renaissanco arch
+  Baco11
+  * Cento Camerelle, hugo Roman water reservoir
+  Piscina Ilirabile, largest and best preserved water roservoir
+  In the Roman world, bullt for the Roman
+  fleet stationod In Misenum
+  
+  
+  ---
+  
+  For these given input data, the intended output takes the following structure:
+  
+  Region: Campania
+  Province: Naples
+  Town: Acerra
+  Name: Duomo
+  Alternate Name: Cathedral
+  harvard_long_list_stars: 1
+  harvard_long_list_text: Perhaps built on Roman temple of Hercules
+  
+  Region: Campania
+  Province: Naples
+  Town: Acerra
+  Name: Castello
+  Alternate Name: 
+  harvard_long_list_stars: 0
+  harvard_long_list_text: 
+  
+  Region: Campania
+  Province: Naples
+  Town: Acerra
+  Name: Agnano Terme
+  Alternate Name: 
+  harvard_long_list_stars: 
+  harvard_long_list_text: 
+  
+  ...etc...
+  
+  Region: Campania
+  Province: Naples
+  Town: Bacoli
+  Name: Cento Camerelle
+  Alternate Name:
+  harvard_long_list_stars: 1
+  harvard_long_list_text: Huge Roman water reservoir
+  
+  Region: Campania
+  Province: Naples
+  Town: Bacoli
+  Name: Piscina Ilirabile
+  Alternate Name:
+  harvard_long_list_stars: 2
+  harvard_long_list_text: Largest and best preserved water reservoir in the Roman world, bullt for the Roman fleet stationod in Misenum
+  
+  ---
+  
+  May you please return output of the same structure outlined above for the following input data:
+  `

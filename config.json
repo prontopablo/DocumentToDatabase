@@ -1,0 +1,20 @@
+{
+    "ocr": {
+        "api_url": "https://api.ocr.space/parse/image",
+        "api_key": "Your API Key",
+        "language": "eng",
+        "output_format": "txt",
+        "input_file": "C:/Users/darra/Desktop/Nigel Project/wwiiheritage/InputData/Sample lists Campania and Lazio 2 November 18/Campania and Lazio short list/Campania and Lazio short lists combined.pdf",
+        "output_dir": "my_chunks/",
+        "max_file_size": 1000000
+    },
+    "gpt": {
+        "input_file": "../OCR/ocr_output.txt",
+        "output_file": "C:/Users/darra/Desktop/Nigel Project/wwiiheritage/Scripts/input-data/output.txt",
+        "prompt": "REGION OF 'A'\n\n  Province of 'B'\n\n  [TOWN NAME IN CAPITAL LETTERS] (Optional additional information in parentheses)\n\n  [Name of cultural site 1] (Alternate name of cultural site 1) [description of cultural site].\n  [Name of cultural site 2] (Alternate name of cultural site 2) [description of cultural site].\n  ... etc etc.\n  [Name of cultural site n] (Alternate name of cultural site n) [description of cultural site].\n\n  ---\n\n  Here are some sample entries from our source document which obey this structure:\n\n  REGION OF CAMPANIA\n  Province of Avellino\n  MONTEVERGINE (5 miles from Avellino)\n  Convent of Montevergine (Mt. of the Virgin), famous pilgrimage center. Festivals,\n  Whitsuntide (7th Sunday after Easter); September 7-8th.\n  Province of Benevento\n  BENEVENTO\n  Arco di Traiano (Aroh of Trajan) also called Port' Aurea, Roman triumphal arch.\n  Cattedrale; famous bronze doors, 13th century; treasury;\n  Bibiloteca Capitolare\n  (Cathedral Library), over 40 manuscripts, 9th to 13th century.\n  CUSANO MUTRI - San Nicola (Church of St. Nicholas); silver reliquary, XIV century,\n  containing part of crown of thorns.\n  PESCOLAMAZZA - San Salvatore (Church of the Holy Savior) containing the body of the\n  martyr St. Reparata, much revered.\n  TELESE - Well-preserved walls of the ancient town of Telesia, with city gates.\n\n  For these given data, we need you to return information of the following structure:\n\n  Region: Campania\n  Province: Avellino\n  Town: Montevergine\n  Name: Convent of Montevergine\n  Alternate Name: Mt. of the Virgin Convent\n  harvard_short_list_text: Famous pilgrimage center. Festivals, Whitsuntide (7th Sunday after Easter); September 7-8th.\n\n  Region: Campania\n  Province: Benevento\n  Town: Benevento\n  Name: Arco di Traiano\n  Alternate Name: Aroh of Trajan\n  harvard_short_list_text: Also called Port' Aurea, Roman triumphal arch.\n\n  Region: Campania\n  Province: Benevento\n  Town: Benevento\n  Name: Cattedrale\n  harvard_short_list_text: Famous bronze doors, 13th century\n\n  Region: Campania\n  Province: Benevento\n  Town: Benevento\n  Name: Treasury\n  harvard_short_list_text:\n\n  Region: Campania\n  Province: Benevento\n  Town: Benevento\n  Name: Bibiloteca Capitolare\n  Alternate Name: Cathedral Library\n  harvard_short_list_text: Over 40 manuscripts, 9th to 13th century.\n\n  Region: Campania\n  Province: Benevento\n  Town: Cusano Mutri\n  Name: San Nicola\n  Alternate Name: Church of St. Nicholas\n  harvard_short_list_text: Silver reliquary, XIV century,\n  containing part of crown of thorns.\n\n  Region: Campania\n  Province: Benevento\n  Town: Pescolamazza\n  Name: San Salvatore\n  Alternate Name: Church of the Holy Savior\n  harvard_short_list_text: Containing the body of the\n  martyr St. Reparata, much revered.\n\n  Return information of the same structure outlined here for the following source text:\n\n\n\n\n\n\n",
+        "chunk_size": 2000
+    },
+    "openai": {
+        "api_key": "Your API Key"
+    }
+}

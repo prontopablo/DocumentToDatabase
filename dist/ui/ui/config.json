@@ -1,0 +1,20 @@
+{
+    "ocr": {
+        "api_url": "https://api.ocr.space/parse/image",
+        "api_key": "K86498511088957",
+        "language": "eng",
+        "output_format": "txt",
+        "input_file": "C:/Users/darra/Desktop/Nigel Project/wwiiheritage/Scripts/ui/input-data/test.jpg",
+        "output_dir": "my_chunks/",
+        "max_file_size": 1000000
+    },
+    "gpt": {
+        "input_file": "../OCR/ocr_output.txt",
+        "output_file": "C:/Users/darra/Desktop/Nigel Project/wwiiheritage/Scripts/ui/input-data/New Text Document.txt",
+        "prompt": "Is this an appropriate greeting?\n\n",
+        "chunk_size": 2000
+    },
+    "openai": {
+        "api_key": "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"
+    }
+}
