@@ -2,14 +2,15 @@
 
 *La version française se trouve dans [README_FR.md](https://github.com/prontopablo/DocumentToDatabase/blob/main/README_FR.md)*
 
-This document provides instructions on setting up, configuring, and using the OCR and GPT-3.5 Turbo scripts. These scripts work in tandem to perform Optical Character Recognition (OCR) on files and generate text-based responses using GPT-3.5. *(See bottom of this document for applications/examples)*
+This project allows users to take their non-searchable documents and, using a simple user interface: preprocess (increase image quality), OCR (take the text from images), tell GPT what to do with that text (in large batches simultaneously) and then reformat that text to be put into a database (SQL).
+*[(See bottom of this document for applications/examples)](#examples)*
 
 ### Prerequisites
 
-Before setting up and using the OCR and GPT-3.5 Turbo scripts, ensure you have the following prerequisites:
+Before setting up, ensure you have the following prerequisites:
 
 - Python 3.x installed on your machine. [(Install Python)](https://www.python.org/downloads/)
-- Access to an OCR API service and an API key. [(OCR.space)](https://ocr.space/ocrapi/freekey)
+- Access to an OCR API key. [(OCR.space)](https://ocr.space/ocrapi/freekey)
 - An OpenAI GPT-3.5 Turbo API key. [(OpenAI API)](https://platform.openai.com/docs/api-reference)
 
 ### Quickstart guide
