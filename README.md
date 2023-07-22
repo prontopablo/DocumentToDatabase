@@ -125,6 +125,15 @@ To use the OCR and GPT-3.5 Turbo scripts, follow these steps (**You could altern
 ### 5. Examples
 
 ## Generic Example:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjejd2OTJ0dmEzOWp5amNsYzg1NTFuaXdtcWhmdnMyaG9tNjlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XS0RUHDJmq6Edx0xGK/giphy.gif" alt="Example Demonstration Gif">
+</p>
+
+<p align="center">
+  <em>Demonstration of completing all of these steps entirely from the UI</em>
+</p>
+
 1. OCR:
    - Input: A PDF containing scanned pages of a book.
    - Output: Individual PDF files for each page, saved in the specified output directory. The OCR text will be appended to the `ocr_output.txt` file.
