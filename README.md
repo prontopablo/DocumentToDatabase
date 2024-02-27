@@ -163,6 +163,4 @@ To use the OCR and GPT-3.5 Turbo scripts, follow these steps (**You could altern
 
 You can modify the configuration and adapt the scripts to fit your specific use cases, file formats, and API services.
 
-Please note that these scripts provide a basic implementation, and you may need to customize them further based on your specific requirements and use cases.
-
 ---
